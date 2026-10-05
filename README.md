@@ -1,24 +1,32 @@
-# My Human Portfolio
+# Rahul Kardile — Portfolio
 
-this is my resume based on that resume , build a proper portfolio website ,, ,, and make unique theme , and website and portfolio should be look like human friendly ..
+A single-page portfolio website showcasing my projects, experience, and skills as a software engineer based in Pune, India.
 
-This project was built with [Lovable](https://lovable.dev).
+## Tech stack
 
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/84ab50a3-e5ef-437a-875d-5b229d04b58c).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+- React 19 + TypeScript
+- TanStack Start / Router
+- Tailwind CSS v4
+- Vite
 
 ## Development
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
 ```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+npm install
 npm run dev
 ```
+
+Other scripts:
+
+```sh
+npm run build    # production build
+npm run preview  # preview the production build
+npm run lint     # lint the code
+npm run test     # run tests
+```
+
+## Contact
+
+- Email: kardilerahul702@gmail.com
+- GitHub: https://github.com/rahulkardile07
+- LinkedIn: https://linkedin.com/in/rahulkardile07
