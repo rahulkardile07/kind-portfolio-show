@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the portfolio as a single-page anchored experience because recruiters should scan Rahul's work, skills, and experience without navigation friction.
