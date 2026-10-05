@@ -1,0 +1,6 @@
+[build]
+  # Install from bun.lock before building so `vite` is always available,
+  # even in environments that skip Netlify's automatic install step.
+  command = "bun install --frozen-lockfile && bun run build"
+  # Nitro's Netlify preset writes static assets to `dist`.
+  publish = "dist"
